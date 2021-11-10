@@ -1,0 +1,21 @@
+:root {
+  --primaryColor: #dcae24;
+  --hoverPrimaryColor: #dcae24;
+  --secondaryColor: #dcae24;
+}
+
+#currency-selector,
+#store-name {
+  color: var(--primaryColor);
+}
+
+.header-nav-link,
+#footer p {
+  color: var(--primaryColor) !important;
+}
+
+ul.footer-social-icons .social-svg {
+  width: 2rem !important;
+  height: 2rem !important;
+  margin: 10px;
+}
