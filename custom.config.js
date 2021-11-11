@@ -6,23 +6,24 @@ const CustomConfig = {
   storefrontToken: 'XXXXXXXXXXXX',        // testing
 
   // WEBSITE
-  // websiteDomain: 'https://weldingsmostwanted.com', // for production
+  // websiteDomain: 'https://youdomain.com', // for production
   websiteDomain: '', // for testing
-  websiteName: "Welding's Most Wanted",
-  companyName: "Welding's Most Wanted LLC",
+  websiteName: "Website Name",
+  companyName: "Company Name Inc",
 
   // SOCIAL MEDIA
-  instagramUrl: "https://instagram.com/weldingsmostwanted",
-  twitterUrl: "https://twitter.com/weldthemost",
-  facebookUrl: "https://facebook.com/weldingsmostwanted",
-  linkedinUrl: "https://linkedin.com/in/weldingsmostwanted",
-  discordUrl: "https://discord.com/weldingsmostwanted",
+  instagramUrl: "https://instagram.com/example",
+  twitterUrl: "https://twitter.com/example",
+  facebookUrl: "https://facebook.com/example",
+  linkedinUrl: "https://linkedin.com/in/example",
+  youtubeUrl: "https://youtube.com/example",
+  discordUrl: "https://discord.com/example",
 
   // COLORS
-  primaryColor: '#dcae24',
-  fontPrimaryColor: 'text-yellow-400',
-  fontHoverPrimaryColor: 'hover:text-yellow-600',
-  fontVisitedPrimaryColor: 'visited:text-yellow-800',
-  bgPrimaryColor: 'bg-yellow-400',
+  primaryColor: '#8B5CF6',
+  fontPrimaryColor: 'text-purple-500',
+  fontHoverPrimaryColor: 'hover:text-purple-700',
+  fontVisitedPrimaryColor: 'visited:text-purple-900',
+  bgPrimaryColor: 'bg-purple-500',
 }
 export default CustomConfig;

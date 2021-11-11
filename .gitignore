@@ -63,6 +63,7 @@ jspm_packages/
 .env.*
 !.env.example
 .env
+.env.sh
 
 # Serverless directories
 .serverless/
